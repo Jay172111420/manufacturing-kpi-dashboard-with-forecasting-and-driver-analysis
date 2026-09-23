@@ -134,8 +134,8 @@ Prediction Generation → Model Validation → Explainability Analysis
 
 ```bash
 # Clone repo
-git clone https://github.com/karan-sharma-aiml/FUTURE_ML_01.git
-cd FUTURE_ML_01
+git clone https://github.com/Jay172111420/manufacturing-kpi-dashboard-with-forecasting-and-driver-analysis.git
+cd manufacturing-kpi-dashboard-with-forecasting-and-driver-analysis
 
 # Setup env
 python -m venv venv
@@ -182,14 +182,11 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-**Karan Sharma**
-🎓 B.Tech CSE (AI/ML) Student @ CGC University, Mohali
+**Jay Mishra**
 
-💡 Focus: Time Series | Deep Learning | Explainable AI
-📧 Email: [karan.sharma@email.com](mailto:karan.sharma@email.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/karan-sharma-167957271)
-🐙 [GitHub](https://github.com/karan-sharma-aiml)
-
+💡 Focus: Data Science | Machine Learning | MLOps
+📧 Email: f20230439@pilani.bits-pilani.ac.in
+🐙 [GitHub](https://github.com/Jay172111420)
 ---
 
 <div align="center">
